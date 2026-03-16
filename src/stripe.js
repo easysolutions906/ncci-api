@@ -3,9 +3,9 @@ import { createKey, revokeKey, loadKeys } from './keys.js';
 
 // Placeholder Stripe price IDs — replace with real ones after creating products
 const PRICE_TO_PLAN = {
-  'price_ncci_starter_placeholder': 'starter',
-  'price_ncci_pro_placeholder': 'pro',
-  'price_ncci_business_placeholder': 'business',
+  'price_1TBhvlBAfS5cSTakCSRj0r6q': 'starter',
+  'price_1TBhvlBAfS5cSTakVMNJkxo2': 'pro',
+  'price_1TBhvmBAfS5cSTakSYhNGJIN': 'business',
 };
 
 const PLAN_TO_PRICE = Object.fromEntries(
