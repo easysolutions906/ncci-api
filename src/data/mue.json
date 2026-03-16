@@ -1,0 +1,1274 @@
+[
+  {
+    "code": "99202",
+    "description": "Office visit, new patient, level 2",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99203",
+    "description": "Office visit, new patient, level 3",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99204",
+    "description": "Office visit, new patient, level 4",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99205",
+    "description": "Office visit, new patient, level 5",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99211",
+    "description": "Office visit, established patient, level 1",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99212",
+    "description": "Office visit, established patient, level 2",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99213",
+    "description": "Office visit, established patient, level 3",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99214",
+    "description": "Office visit, established patient, level 4",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99215",
+    "description": "Office visit, established patient, level 5",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient E&M visit per provider per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99221",
+    "description": "Initial hospital care, level 1",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One initial hospital care per admission",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99222",
+    "description": "Initial hospital care, level 2",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One initial hospital care per admission",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99223",
+    "description": "Initial hospital care, level 3",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One initial hospital care per admission",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99231",
+    "description": "Subsequent hospital care, level 1",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One subsequent hospital care per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99232",
+    "description": "Subsequent hospital care, level 2",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One subsequent hospital care per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99233",
+    "description": "Subsequent hospital care, level 3",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One subsequent hospital care per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99238",
+    "description": "Hospital discharge day, 30 min or less",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One hospital discharge per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99239",
+    "description": "Hospital discharge day, more than 30 min",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One hospital discharge per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99281",
+    "description": "ED visit, level 1",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One ED visit per encounter",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99282",
+    "description": "ED visit, level 2",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One ED visit per encounter",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99283",
+    "description": "ED visit, level 3",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One ED visit per encounter",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99284",
+    "description": "ED visit, level 4",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One ED visit per encounter",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99285",
+    "description": "ED visit, level 5",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One ED visit per encounter",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "99291",
+    "description": "Critical care, first 30-74 min",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One initial critical care per day per provider",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99292",
+    "description": "Critical care, each additional 30 min",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 additional critical care units per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99381",
+    "description": "Preventive visit, new patient, infant",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99382",
+    "description": "Preventive visit, new patient, age 1-4",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99383",
+    "description": "Preventive visit, new patient, age 5-11",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99384",
+    "description": "Preventive visit, new patient, age 12-17",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99385",
+    "description": "Preventive visit, new patient, age 18-39",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99386",
+    "description": "Preventive visit, new patient, age 40-64",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One new patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99391",
+    "description": "Preventive visit, established, infant",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99392",
+    "description": "Preventive visit, established, age 1-4",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99393",
+    "description": "Preventive visit, established, age 5-11",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99394",
+    "description": "Preventive visit, established, age 12-17",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99395",
+    "description": "Preventive visit, established, age 18-39",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "99396",
+    "description": "Preventive visit, established, age 40-64",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One established patient preventive visit per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "36415",
+    "description": "Venipuncture, routine",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 venipunctures per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "36416",
+    "description": "Capillary blood collection",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 capillary collections per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "36410",
+    "description": "Venipuncture, age 3+, necessitating physician skill",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 physician venipunctures per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "80048",
+    "description": "Basic metabolic panel",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One panel per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "80050",
+    "description": "General health panel",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One panel per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "80053",
+    "description": "Comprehensive metabolic panel",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One panel per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "80061",
+    "description": "Lipid panel",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One panel per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "80069",
+    "description": "Renal function panel",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One panel per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "80076",
+    "description": "Hepatic function panel",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One panel per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "85025",
+    "description": "Complete blood count (CBC) with differential",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 CBC per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "85027",
+    "description": "Complete blood count (CBC) without differential",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 CBC without diff per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "85610",
+    "description": "Prothrombin time (PT)",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 PT per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "85730",
+    "description": "Partial thromboplastin time (PTT)",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 PTT per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "87070",
+    "description": "Culture, bacterial, any source",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 bacterial cultures per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "87086",
+    "description": "Culture, urine, quantitative",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 urine cultures per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "87804",
+    "description": "Rapid influenza test",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 rapid influenza tests per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "87880",
+    "description": "Rapid strep test",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 rapid strep tests per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "29877",
+    "description": "Knee arthroscopy, debridement/shaving",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 knee debridements per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "29880",
+    "description": "Knee arthroscopy, meniscectomy medial and lateral",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One bilateral meniscectomy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "29881",
+    "description": "Knee arthroscopy, meniscectomy medial or lateral",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 unilateral meniscectomies per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "29882",
+    "description": "Knee arthroscopy, meniscus repair medial",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 meniscus repairs per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "29883",
+    "description": "Knee arthroscopy, meniscus repair lateral",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 meniscus repairs per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "29874",
+    "description": "Knee arthroscopy, removal of loose body",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 loose body removals per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "43235",
+    "description": "Upper GI endoscopy, diagnostic",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One diagnostic EGD per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "43239",
+    "description": "Upper GI endoscopy with biopsy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One EGD with biopsy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "45378",
+    "description": "Colonoscopy, diagnostic",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One diagnostic colonoscopy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "45380",
+    "description": "Colonoscopy with biopsy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One colonoscopy with biopsy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "45385",
+    "description": "Colonoscopy with polypectomy, snare",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One colonoscopy with polypectomy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "45330",
+    "description": "Sigmoidoscopy, diagnostic",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One sigmoidoscopy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "47562",
+    "description": "Laparoscopic cholecystectomy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One cholecystectomy per patient",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "47563",
+    "description": "Laparoscopic cholecystectomy with cholangiography",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One cholecystectomy per patient",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "49505",
+    "description": "Inguinal hernia repair, initial",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 inguinal hernia repairs per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "49650",
+    "description": "Laparoscopic inguinal hernia repair",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 laparoscopic hernia repairs per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "27447",
+    "description": "Total knee arthroplasty",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 TKAs per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "27130",
+    "description": "Total hip arthroplasty",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 THAs per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "52000",
+    "description": "Cystourethroscopy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One diagnostic cystourethroscopy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "52332",
+    "description": "Cystourethroscopy with stent insertion",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 stent insertions per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "57452",
+    "description": "Colposcopy with biopsy of cervix",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One colposcopy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "57460",
+    "description": "Colposcopy with LEEP of cervix",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One LEEP per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "58100",
+    "description": "Endometrial biopsy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One endometrial biopsy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "58120",
+    "description": "Dilation and curettage, diagnostic",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One D&C per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "58150",
+    "description": "Total abdominal hysterectomy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One hysterectomy per patient",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "58260",
+    "description": "Vaginal hysterectomy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One vaginal hysterectomy per patient",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "58558",
+    "description": "Hysteroscopy with biopsy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One hysteroscopy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "59400",
+    "description": "Obstetric care, vaginal delivery",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One vaginal delivery package per pregnancy",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "59510",
+    "description": "Obstetric care, cesarean delivery",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One cesarean delivery package per pregnancy",
+    "adjudicationIndicator": 3
+  },
+  {
+    "code": "96360",
+    "description": "IV infusion, hydration, initial 31 min-1 hr",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One initial hydration per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96361",
+    "description": "IV infusion, hydration, each additional hr",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 additional hydration hours per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96365",
+    "description": "IV infusion, therapeutic, initial 1 hr",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 initial therapeutic infusions per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96366",
+    "description": "IV infusion, therapeutic, each additional hr",
+    "practitionerMue": 8,
+    "facilityMue": 8,
+    "rationale": "Up to 8 additional infusion hours per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96372",
+    "description": "Therapeutic injection, subcutaneous/intramuscular",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 IM/SQ injections per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96374",
+    "description": "Therapeutic injection, IV push",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 IV pushes per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96413",
+    "description": "Chemotherapy IV infusion, first hr",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 initial chemo infusions per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97010",
+    "description": "Physical therapy, hot/cold packs",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One hot/cold pack application per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97035",
+    "description": "Physical therapy, ultrasound",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 ultrasound units per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97110",
+    "description": "Therapeutic exercises, 15 min",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 units (60 min) therapeutic exercise per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97112",
+    "description": "Neuromuscular reeducation, 15 min",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 units (60 min) neuromuscular reeducation per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97116",
+    "description": "Gait training, 15 min",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 units (60 min) gait training per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97140",
+    "description": "Manual therapy, 15 min",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 units (60 min) manual therapy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97150",
+    "description": "Group therapeutic procedures",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 units group therapy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97161",
+    "description": "PT evaluation, low complexity",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One PT eval per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97162",
+    "description": "PT evaluation, moderate complexity",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One PT eval per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97163",
+    "description": "PT evaluation, high complexity",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One PT eval per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97164",
+    "description": "PT re-evaluation",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One PT re-eval per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "97530",
+    "description": "Therapeutic activities, 15 min",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 units (60 min) therapeutic activities per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "93000",
+    "description": "Electrocardiogram (ECG/EKG), 12-lead",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 ECGs per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "93015",
+    "description": "Cardiovascular stress test",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One stress test per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "93306",
+    "description": "Echocardiography, complete with Doppler",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One complete echo per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "93350",
+    "description": "Stress echocardiography",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One stress echo per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "93452",
+    "description": "Left heart catheterization",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One left heart cath per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "93798",
+    "description": "Cardiac rehab, physician-directed",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One cardiac rehab session per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "62323",
+    "description": "Lumbar/caudal epidural injection with imaging",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 epidural injections per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "64483",
+    "description": "Transforaminal epidural injection, lumbar/sacral, single",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 transforaminal epidurals per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "64493",
+    "description": "Facet joint injection, lumbar/sacral, single",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 lumbar facet injections per day (bilateral, multiple levels)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "64635",
+    "description": "Radiofrequency ablation, lumbar/sacral facet, single",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 lumbar RFA per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90471",
+    "description": "Immunization administration, injectable",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One initial immunization admin per day per route",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90472",
+    "description": "Immunization administration, each additional injectable",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 additional immunization components per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90460",
+    "description": "Immunization administration, first component",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One initial pediatric immunization admin per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90461",
+    "description": "Immunization administration, each additional component",
+    "practitionerMue": 5,
+    "facilityMue": 5,
+    "rationale": "Up to 5 additional pediatric components per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "71046",
+    "description": "Chest X-ray, 2 views",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 chest X-rays per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "72148",
+    "description": "MRI lumbar spine without contrast",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One lumbar MRI per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "73721",
+    "description": "MRI knee without contrast",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 knee MRIs per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "74177",
+    "description": "CT abdomen/pelvis with contrast",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One CT abdomen/pelvis per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "76700",
+    "description": "Ultrasound, abdominal, complete",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One abdominal ultrasound per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "76805",
+    "description": "Ultrasound, pregnant uterus, complete",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One OB ultrasound per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "76830",
+    "description": "Ultrasound, transvaginal",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One transvaginal ultrasound per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "76856",
+    "description": "Ultrasound, pelvic, complete",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One pelvic ultrasound per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "77067",
+    "description": "Screening mammography, bilateral",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One screening mammography per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "94010",
+    "description": "Spirometry",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 spirometry tests per day (pre and post)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "94060",
+    "description": "Bronchospasm evaluation with spirometry",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One bronchospasm evaluation per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "94640",
+    "description": "Nebulizer treatment",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 nebulizer treatments per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "94760",
+    "description": "Pulse oximetry, single",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 pulse oximetry readings per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90834",
+    "description": "Psychotherapy, 45 min",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One 45 min psychotherapy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90837",
+    "description": "Psychotherapy, 60 min",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One 60 min psychotherapy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90847",
+    "description": "Family psychotherapy with patient",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One family psychotherapy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "90853",
+    "description": "Group psychotherapy",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One group psychotherapy per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "92004",
+    "description": "Ophthalmologic exam, new patient, comprehensive",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One comprehensive new eye exam per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "92014",
+    "description": "Ophthalmologic exam, established, comprehensive",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One comprehensive established eye exam per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "92250",
+    "description": "Fundus photography",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 fundus photography per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "10060",
+    "description": "Incision and drainage of abscess, simple",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 simple I&D per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "10061",
+    "description": "Incision and drainage of abscess, complicated",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 complicated I&D per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "11042",
+    "description": "Debridement, subcutaneous tissue, first 20 sq cm",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 debridement units per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "11102",
+    "description": "Tangential biopsy of skin, single lesion",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 tangential biopsies per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "11104",
+    "description": "Punch biopsy of skin, single lesion",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 punch biopsies per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "11200",
+    "description": "Removal of skin tags, up to 15",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One skin tag removal session per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "12001",
+    "description": "Simple repair of wound, 2.5 cm or less",
+    "practitionerMue": 3,
+    "facilityMue": 3,
+    "rationale": "Up to 3 simple repairs per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "17000",
+    "description": "Destruction of premalignant lesion, first",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One first premalignant lesion destruction per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "17110",
+    "description": "Destruction of benign lesions, up to 14",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One benign lesion destruction session per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "20610",
+    "description": "Arthrocentesis, major joint",
+    "practitionerMue": 4,
+    "facilityMue": 4,
+    "rationale": "Up to 4 major joint arthrocenteses per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "69210",
+    "description": "Removal of impacted cerumen, unilateral",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 cerumen removals per day (bilateral)",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "86580",
+    "description": "TB skin test",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One TB skin test per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "88305",
+    "description": "Surgical pathology, gross and micro, level IV",
+    "practitionerMue": 5,
+    "facilityMue": 5,
+    "rationale": "Up to 5 surgical pathology level IV per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96110",
+    "description": "Developmental screening",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One developmental screening per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "96127",
+    "description": "Behavioral assessment, brief",
+    "practitionerMue": 2,
+    "facilityMue": 2,
+    "rationale": "Up to 2 behavioral assessments per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "95810",
+    "description": "Polysomnography, sleep staging",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One polysomnography per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "95004",
+    "description": "Allergy skin test, percutaneous",
+    "practitionerMue": 40,
+    "facilityMue": 40,
+    "rationale": "Up to 40 percutaneous allergy tests per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "G0101",
+    "description": "Cervical/vaginal cancer screening, pelvic exam",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One cervical/vaginal screening per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "G0102",
+    "description": "Prostate cancer screening, digital rectal exam",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One prostate screening per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "G0104",
+    "description": "Colorectal cancer screening, flex sig",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One flex sig screening per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "G0105",
+    "description": "Colorectal cancer screening, colonoscopy, high risk",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One colonoscopy screening per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "G0121",
+    "description": "Colorectal cancer screening, colonoscopy, not high risk",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One colonoscopy screening per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "G0127",
+    "description": "Trimming of dystrophic nails",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One dystrophic nail trimming session per day",
+    "adjudicationIndicator": 2
+  },
+  {
+    "code": "G0463",
+    "description": "Hospital outpatient clinic visit",
+    "practitionerMue": 1,
+    "facilityMue": 1,
+    "rationale": "One hospital outpatient clinic visit per day",
+    "adjudicationIndicator": 2
+  }
+]

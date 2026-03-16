@@ -1,0 +1,36 @@
+{
+  "name": "@easysolutions906/ncci-api",
+  "version": "1.0.0",
+  "description": "NCCI claims validation API - validate CPT/HCPCS code pairs, PTP edits, and MUE limits for medical billing compliance",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "build-data": "node scripts/build-data.js"
+  },
+  "keywords": [
+    "ncci",
+    "cpt",
+    "hcpcs",
+    "medical-billing",
+    "claims-validation",
+    "ptp-edits",
+    "mue",
+    "cms",
+    "mcp",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "express": "^5.1.0",
+    "stripe": "^20.4.1",
+    "zod": "^3.24.0"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/easysolutions906"
+  }
+}
