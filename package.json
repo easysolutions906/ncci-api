@@ -1,6 +1,6 @@
 {
   "name": "@easysolutions906/ncci-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NCCI claims validation API - validate CPT/HCPCS code pairs, PTP edits, and MUE limits for medical billing compliance",
   "type": "module",
   "main": "src/index.js",
